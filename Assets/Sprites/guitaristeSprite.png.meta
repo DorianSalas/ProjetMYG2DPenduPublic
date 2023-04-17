@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: ba23eb6ad7af59c44b6b17d70e7842f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guitaristeSprite_0
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 283
+        width: 331
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -219}
+        - {x: 55.5, y: -217}
+        - {x: 60.5, y: -165}
+        - {x: 87.5, y: -155}
+        - {x: 89.5, y: -108}
+        - {x: 81.5, y: -34}
+        - {x: 108.5, y: -19}
+        - {x: 121.5, y: -9}
+        - {x: 150.5, y: 2}
+        - {x: 165.5, y: 14}
+        - {x: 165.5, y: 59}
+        - {x: 149.5, y: 74}
+        - {x: 129.5, y: 65}
+        - {x: 121.5, y: 60}
+        - {x: 96.5, y: 51}
+        - {x: 90.5, y: 47}
+        - {x: 87.5, y: 44}
+        - {x: 84.5, y: 40}
+        - {x: 94.5, y: 58}
+        - {x: 125.5, y: 72}
+        - {x: 152.5, y: 98}
+        - {x: 161.5, y: 159}
+        - {x: 147.5, y: 187}
+        - {x: 104.5, y: 219}
+        - {x: 110.5, y: 254}
+        - {x: 70.5, y: 272}
+        - {x: -64.5, y: 272}
+        - {x: -113.5, y: 263}
+        - {x: -140.5, y: 236}
+        - {x: -162.5, y: 210}
+        - {x: -164.5, y: 136}
+        - {x: -131.5, y: 98}
+        - {x: -110.5, y: 39}
+        - {x: -127.5, y: 31}
+        - {x: -165.5, y: -24}
+        - {x: -165.5, y: -40}
+        - {x: -141.5, y: -98}
+        - {x: -127.5, y: -111}
+        - {x: -165.5, y: -143}
+        - {x: -165.5, y: -204}
+        - {x: -162.5, y: -211}
+        - {x: -149.5, y: -206}
+        - {x: -149.5, y: -167}
+        - {x: -95.5, y: -172}
+        - {x: -98.5, y: -192}
+        - {x: -116.5, y: -226}
+        - {x: -128.5, y: -254}
+        - {x: -123.5, y: -267}
+        - {x: -104.5, y: -271}
+        - {x: -71.5, y: -245}
+        - {x: -53.5, y: -205}
+        - {x: -56.5, y: -184}
+        - {x: -45.5, y: -224}
+        - {x: -75.5, y: -251}
+        - {x: -63.5, y: -272}
+        - {x: -32.5, y: -272}
+        - {x: -8.5, y: -244}
+        - {x: -1.5, y: -208}
+        - {x: 36.5, y: -188}
+      - - {x: 58.5, y: -168}
+        - {x: 60.5, y: -170}
+        - {x: 63.5, y: -169}
+        - {x: 63.5, y: -165}
+        - {x: 61.5, y: -163}
+        - {x: 58.5, y: -164}
+      physicsShape: []
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: b8d09839d31685c44bb5a6f9983cd040
+      internalID: 1846541103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      guitaristeSprite_0: 1846541103
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
